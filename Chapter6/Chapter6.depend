@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1600155476 source:c:\users\jingqin\documents\github\road2cpp\chapter6\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<memory>
+	<vector>
+	<locale>
+
